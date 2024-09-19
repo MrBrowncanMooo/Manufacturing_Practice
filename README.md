@@ -37,10 +37,12 @@ pip install -r requirements.txt
 To install the system, clone the repository from GitHub and install the required dependencies.
 
 ### Usage
-
-1. Run the `face_taker.py` script to collect images of each student's face.
-1. Run the `face_train.py` script to train the facial recognition model.
-1. Run the `face_recognizer.py` script to start the attendance system.
+```
+python3 FaceRecognizer.py
+```
+1. Select the `1` script to collect images of each student's face.
+1. Select the `2` script to train the facial recognition model.
+1. Select the `3` script to start the attendance system.
 
 ### Contributing
 
