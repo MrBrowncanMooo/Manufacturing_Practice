@@ -20,10 +20,10 @@ pip install -r requirements.txt
 
 ### How it Works
 
-[^1] **Data Collection:** The system collects a set of images of each student's face.
-[^2] **Model Training:** The system uses the collected images to train a facial recognition model.
-[^3] **Attendance Marking:** The system uses the trained model to identify students in real-time.
-[^4] **Reporting:** The system generates a report of attendance for each class.
+1. **Data Collection:** The system collects a set of images of each student's face.
+1. **Model Training:** The system uses the collected images to train a facial recognition model.
+1. **Attendance Marking:** The system uses the trained model to identify students in real-time.
+1. **Reporting:** The system generates a report of attendance for each class.
 
 ### Technologies Used
 
@@ -38,13 +38,9 @@ To install the system, clone the repository from GitHub and install the required
 
 ### Usage
 
-[^1] Run the `face_taker.py` script to collect images of each student's face.
-[^2] Run the `face_train.py` script to train the facial recognition model.
-[^3] Run the `face_recognizer.py` script to start the attendance system.
-
-### License
-
-This project is licensed under the MIT License.
+1. Run the `face_taker.py` script to collect images of each student's face.
+1. Run the `face_train.py` script to train the facial recognition model.
+1. Run the `face_recognizer.py` script to start the attendance system.
 
 ### Contributing
 
